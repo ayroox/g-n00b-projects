@@ -1,1 +1,1 @@
-
+Some projects that i'd like to make (probably all in C) in order to take my programming skills to the next level and practice. It would be wonderful if you could provide me with advice, tips or any criticism so I can improve :D
