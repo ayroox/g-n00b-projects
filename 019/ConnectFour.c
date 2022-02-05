@@ -33,7 +33,7 @@ int main() {
 }	
 
 void printScreen() {
-	//system(CLEAR_CMD);
+	system(CLEAR_CMD);
 	printBoard();
 	printFooter();
 }
